@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartiksethi007
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me kartiksethi00007@gmail.com
 
 <!---
